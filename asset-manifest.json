@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.3f282976.chunk.css",
-    "main.js": "./static/js/main.72d034d2.chunk.js",
-    "main.js.map": "./static/js/main.72d034d2.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.842dca8e.js",
-    "runtime-main.js.map": "./static/js/runtime-main.842dca8e.js.map",
-    "static/js/2.0b8bf635.chunk.js": "./static/js/2.0b8bf635.chunk.js",
-    "static/js/2.0b8bf635.chunk.js.map": "./static/js/2.0b8bf635.chunk.js.map",
-    "static/js/3.a8c3ed82.chunk.js": "./static/js/3.a8c3ed82.chunk.js",
-    "static/js/3.a8c3ed82.chunk.js.map": "./static/js/3.a8c3ed82.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.3f282976.chunk.css.map": "./static/css/main.3f282976.chunk.css.map",
-    "static/js/2.0b8bf635.chunk.js.LICENSE.txt": "./static/js/2.0b8bf635.chunk.js.LICENSE.txt",
-    "static/media/UNIP.5448917d.png": "./static/media/UNIP.5448917d.png",
-    "static/media/aspnetcore.5d760483.png": "./static/media/aspnetcore.5d760483.png",
-    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg",
-    "static/media/reactjs.93a4bdf1.png": "./static/media/reactjs.93a4bdf1.png",
-    "static/media/sqlserver.aa484bae.png": "./static/media/sqlserver.aa484bae.png"
+    "main.css": "/static/css/main.5c98c679.chunk.css",
+    "main.js": "/static/js/main.72d034d2.chunk.js",
+    "main.js.map": "/static/js/main.72d034d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6e5f2b80.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6e5f2b80.js.map",
+    "static/js/2.0b8bf635.chunk.js": "/static/js/2.0b8bf635.chunk.js",
+    "static/js/2.0b8bf635.chunk.js.map": "/static/js/2.0b8bf635.chunk.js.map",
+    "static/js/3.a8c3ed82.chunk.js": "/static/js/3.a8c3ed82.chunk.js",
+    "static/js/3.a8c3ed82.chunk.js.map": "/static/js/3.a8c3ed82.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5c98c679.chunk.css.map": "/static/css/main.5c98c679.chunk.css.map",
+    "static/js/2.0b8bf635.chunk.js.LICENSE.txt": "/static/js/2.0b8bf635.chunk.js.LICENSE.txt",
+    "static/media/UNIP.5448917d.png": "/static/media/UNIP.5448917d.png",
+    "static/media/aspnetcore.5d760483.png": "/static/media/aspnetcore.5d760483.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/reactjs.93a4bdf1.png": "/static/media/reactjs.93a4bdf1.png",
+    "static/media/sqlserver.aa484bae.png": "/static/media/sqlserver.aa484bae.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.842dca8e.js",
+    "static/js/runtime-main.6e5f2b80.js",
     "static/js/2.0b8bf635.chunk.js",
-    "static/css/main.3f282976.chunk.css",
+    "static/css/main.5c98c679.chunk.css",
     "static/js/main.72d034d2.chunk.js"
   ]
 }
